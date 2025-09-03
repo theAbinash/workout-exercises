@@ -1,6 +1,6 @@
 [
   {
-    "exercise_id":"1",
+    "exercise_id":1,
     "exercise_name":"Diamond Press",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/ocXAZeF/41n2hdCBvmbCPaVE__Diamond-Press_Back.png",
     "exercise_bodyParts":["BACK","CHEST"],
@@ -11,7 +11,7 @@
   },
   
   {
-    "exercise_id":"2",
+    "exercise_id":2,
     "exercise_name":"Decline Push-Up",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/RKnSv6J/41n2hGUso7JFmuYR__Decline-Push-Up-m_chest.png",
     "exercise_bodyParts":["CHEST"],
@@ -21,7 +21,7 @@
       "Decline Push-Up benefits","Decline Push-Up for chest strength","Improving chest muscles with Decline Push-Up","No-equipment chest workout"]
   },
   {
-    "exercise_id":"3",
+    "exercise_id":3,
     "exercise_name":"Cobra Push-up",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/3mCuoA5/41n2hHLE8aJXaxKR__Cobra-Push-up_Chest.png",
     "exercise_bodyParts":["CHEST","HIPS"],
@@ -31,7 +31,7 @@
       "Cobra Push-up benefits","Push-up variations","Cobra Push-up tutorial","Home workouts for chest","Body weight exercises for hips."]
   },
   {
-    "exercise_id":"4",
+    "exercise_id":4,
     "exercise_name":"Chest Dip",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/JYueqsW/41n2hkK8hGAcSnW7__Chest-Dip_Chest.png",
     "exercise_bodyParts":["CHEST"],
@@ -41,7 +41,7 @@
       "Bodyweight Pectoral Exercise","Dip Exercise for Chest","Bodyweight Chest Muscle Training","Chest Dip Bodyweight Technique"]
   },
   {
-    "exercise_id":"5",
+    "exercise_id":5,
     "exercise_name":"Elbows Back Stretch ",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/F99SEwF/41n2hKZmyYXB2UL4__Elbows-Back-Stretch-(male)_Chest.png",
     "exercise_bodyParts":["BACK","CHEST"],
@@ -51,7 +51,7 @@
       "No equipment back stretch","Bodyweight exercise for back strength","Elbows back stretching technique","Chest opening bodyweight exercise"]
   },
   {
-    "exercise_id":"6",
+    "exercise_id":6,
     "exercise_name":"Pike Push up ",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/vmbEAFU/41n2hmvGdVRvvnNY__Pike-Push-up-(on-Bench)-(VERSION-2)_Chest.png",
     "exercise_bodyParts":["CHEST"],
@@ -61,7 +61,7 @@
       "How to do Pike Push Ups","Bodyweight Fitness Routine","Chest Strengthening Exercises","Advanced Bodyweight Exercise"]
   },
   {
-    "exercise_id":"7",
+    "exercise_id":7,
     "exercise_name":"Push-up",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/YWYV3BP/41n2hNXJadYcfjnd__Push-up-m_Chest.png",
     "exercise_bodyParts":["CHEST"],
@@ -71,7 +71,7 @@
       "Upper body bodyweight exercises","Strengthening chest muscles","Bodyweight chest workout","Home workouts for chest."]
   },
   {
-    "exercise_id":"8",
+    "exercise_id":8,
     "exercise_name":"Back Pec Stretch",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/kZDPjTN/41n2hQeNyCnt3uFh__Back-Pec-Stretch_Back.png",
     "exercise_bodyParts":["BACK","CHEST"],
@@ -81,7 +81,7 @@
       "Home workout for Back and Chest","Back and Pectoral Stretch exercise","Bodyweight Pec Stretch","Back and Chest strengthening exercises","No-equipment Back Pec Stretch workout"]
   },
   {
-    "exercise_id":"9",
+    "exercise_id":9,
     "exercise_name":"Seated Shoulder Press",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/y7xLPmP/41n2hs6camM22yBG__Dumbbell-Seated-Shoulder-Press_Shoulders.png",
     "exercise_bodyParts":["SHOULDERS"],
@@ -91,7 +91,7 @@
       "Workout for Strong Shoulders","Upper Body Dumbbell Exercise","Seated Dumbbell Shoulder Press","Shoulder Muscle Building Exercise","Fitness Routine for Shoulder Press"]
   },
   {
-    "exercise_id":"10",
+    "exercise_id":10,
     "exercise_name":"Palms In Incline Bench Press",
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/kiVYKNz/41n2hsVHu7B1MTdr__Dumbbell-Palms-In-Incline-Bench-Press_Upper-Arms.png",
     "exercise_bodyParts":["UPPER ARMS"],
