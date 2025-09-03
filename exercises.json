@@ -1,4 +1,5 @@
-data:[
+{
+  "data":[
   {
     "exercise_id":1,
     "exercise_name":"Diamond Press",
@@ -101,3 +102,4 @@ data:[
       "Strength Training for Arms","Palms In Dumbbell Press","Incline Bench Dumbbell Workout","Arm Toning Exercises","Fitness Routine for Upper Arms"]
   }
 ]
+}
