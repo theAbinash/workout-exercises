@@ -6,6 +6,7 @@
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/ocXAZeF/41n2hdCBvmbCPaVE__Diamond-Press_Back.png",
     "exercise_body_parts":["BACK","CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
+    "exercise_type_id":1,
     "exerciseType":"STRENGTH",
     "keywords":["Diamond Press exercise","Bodyweight back workout","Chest exercises at home","Diamond Press for chest","Bodyweight Diamond Press","No-equipment back exercises",
       "Diamond Press workout routine","Bodyweight exercises for back and chest","Diamond Press technique","How to do Diamond Press exercise"]
