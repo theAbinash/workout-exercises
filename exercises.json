@@ -18,6 +18,7 @@
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/RKnSv6J/41n2hGUso7JFmuYR__Decline-Push-Up-m_chest.png",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
+    "exercise_type_id":1,
     "exerciseType":"STRENGTH",
     "keywords":["Decline Push-Up workout","Body weight chest exercises","Decline Push-Up technique","How to do Decline Push-Ups","Home workouts for chest","Bodyweight exercises for pectorals",
       "Decline Push-Up benefits","Decline Push-Up for chest strength","Improving chest muscles with Decline Push-Up","No-equipment chest workout"]
@@ -28,6 +29,7 @@
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/3mCuoA5/41n2hHLE8aJXaxKR__Cobra-Push-up_Chest.png",
     "exercise_body_parts":["CHEST","HIPS"],
     "exercise_equipments":["BODY WEIGHT"],
+    "exercise_type_id":1,
     "exerciseType":"STRENGTH",
     "keywords":["Cobra Push-up workout","Body weight exercises for chest","Hips strengthening exercises","Cobra Push-up technique","Body weight chest workout",
       "Cobra Push-up benefits","Push-up variations","Cobra Push-up tutorial","Home workouts for chest","Body weight exercises for hips."]
@@ -58,6 +60,7 @@
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/vmbEAFU/41n2hmvGdVRvvnNY__Pike-Push-up-(on-Bench)-(VERSION-2)_Chest.png",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
+    "exercise_type_id":1,
     "exerciseType":"STRENGTH",
     "keywords":["Pike Push Up Workout","Bodyweight Chest Exercise","Pike Push Up Tutorial","Home Chest Workout","No Equipment Chest Exercise","Pike Push Up Benefits",
       "How to do Pike Push Ups","Bodyweight Fitness Routine","Chest Strengthening Exercises","Advanced Bodyweight Exercise"]
@@ -68,6 +71,7 @@
     "exercise_image_url":"https://cdn.exercisedb.dev/w/images/YWYV3BP/41n2hNXJadYcfjnd__Push-up-m_Chest.png",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
+    "exercise_type_id":1,
     "exerciseType":"STRENGTH",
     "keywords":["Chest workout at home","Bodyweight exercises for chest","Push-up variations","How to do a push-up","Benefits of push-ups","Push-up technique",
       "Upper body bodyweight exercises","Strengthening chest muscles","Bodyweight chest workout","Home workouts for chest."]
