@@ -3,7 +3,7 @@
   {
     "exercise_id":1,
     "exercise_name":"Diamond Press",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/ocXAZeF/41n2hdCBvmbCPaVE__Diamond-Press_Back.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["BACK","CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
     "exercise_type_id":1,
@@ -15,7 +15,7 @@
   {
     "exercise_id":2,
     "exercise_name":"Decline Push-Up",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/RKnSv6J/41n2hGUso7JFmuYR__Decline-Push-Up-m_chest.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
     "exercise_type_id":1,
@@ -26,7 +26,7 @@
   {
     "exercise_id":3,
     "exercise_name":"Cobra Push-up",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/3mCuoA5/41n2hHLE8aJXaxKR__Cobra-Push-up_Chest.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["CHEST","HIPS"],
     "exercise_equipments":["BODY WEIGHT"],
     "exercise_type_id":1,
@@ -37,7 +37,7 @@
   {
     "exercise_id":4,
     "exercise_name":"Chest Dip",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/JYueqsW/41n2hkK8hGAcSnW7__Chest-Dip_Chest.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
     "exercise_type_id":2,
@@ -48,7 +48,7 @@
   {
     "exercise_id":5,
     "exercise_name":"Pike Push up ",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/vmbEAFU/41n2hmvGdVRvvnNY__Pike-Push-up-(on-Bench)-(VERSION-2)_Chest.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
     "exercise_type_id":1,
@@ -59,7 +59,7 @@
   {
     "exercise_id":6,
     "exercise_name":"Push-up",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/YWYV3BP/41n2hNXJadYcfjnd__Push-up-m_Chest.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["CHEST"],
     "exercise_equipments":["BODY WEIGHT"],
     "exercise_type_id":1,
@@ -70,7 +70,7 @@
   {
     "exercise_id":7,
     "exercise_name":"Palms In Incline Bench Press",
-    "exercise_image_url":"https://cdn.exercisedb.dev/w/images/kiVYKNz/41n2hsVHu7B1MTdr__Dumbbell-Palms-In-Incline-Bench-Press_Upper-Arms.png",
+    "exercise_image_url":"",
     "exercise_body_parts":["UPPER ARMS"],
     "exercise_equipments":["DUMBBELL"],
     "exercise_type_id":2,
