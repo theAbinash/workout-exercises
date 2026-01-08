@@ -3783,6 +3783,160 @@
       "Plank Rock",
       "Deep Core Activation"
     ]
+  },
+  {
+    "exercise_id": 172,
+    "exercise_name": "Weighted Muscle-Up",
+    "exercise_description": "An elite-level calisthenics movement performed with additional weight (vest or belt). It combines a high-pulling motion with a transition into a bar dip. Adding weight increases the explosive power required in the lats and the pressing strength in the chest and triceps.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["LATS", "CHEST", "TRICEPS", "SHOULDERS"],
+    "exercise_equipments": ["PULL-UP BAR", "WEIGHTED VEST", "DIP BELT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Weighted Muscle-Up",
+      "Advanced Calisthenics",
+      "Explosive Strength",
+      "Pull-up to Dip",
+      "Weighted Pulling",
+      "Elite Upper Body",
+      "Muscle Up Variation",
+      "Functional Power",
+      "Bar Muscle Up",
+      "Upper Body Explosiveness"
+    ]
+  },
+  {
+    "exercise_id": 173,
+    "exercise_name": "Clean and Jerk",
+    "exercise_description": "A fundamental Olympic weightlifting movement. The 'clean' involves pulling a barbell from the floor to a front rack position, followed by the 'jerk' which drives the bar overhead. This full-body movement develops total-body power, coordination, and strength.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS", "GLUTES", "SHOULDERS", "BACK"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Clean and Jerk",
+      "Olympic Lifting",
+      "Full Body Explosiveness",
+      "Barbell Clean",
+      "Overhead Jerk",
+      "Powerlifting",
+      "Weightlifting Competition",
+      "Compound Movement",
+      "Triple Extension",
+      "Total Body Strength"
+    ]
+  },
+  {
+    "exercise_id": 174,
+    "exercise_name": "Barbell Hip Thrusts",
+    "exercise_description": "The gold standard for glute isolation. The lifter sits on the floor with their upper back against a bench and a barbell across the hips, then drives the weight upward by extending the hips. It provides maximum mechanical tension on the glutes.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["GLUTES", "HAMSTRINGS"],
+    "exercise_equipments": ["BARBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Barbell Hip Thrusts",
+      "Glute Isolation",
+      "Hip Extension",
+      "Glute Bridge Variation",
+      "Posterior Chain Strength",
+      "Lower Body Mass",
+      "Butt Workout",
+      "Hip Drive",
+      "Heavy Hip Thrust",
+      "Glute Building"
+    ]
+  },
+  {
+    "exercise_id": 175,
+    "exercise_name": "Smith Machine Squat",
+    "exercise_description": "A squat performed within the guided vertical track of a Smith machine. The fixed path allows the lifter to adjust foot placement (stepping forward) to emphasize the quadriceps or glutes while reducing the need for stabilization compared to free-weight squats.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS", "GLUTES", "HAMSTRINGS"],
+    "exercise_equipments": ["SMITH MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Smith Machine Squat",
+      "Guided Squat",
+      "Fixed Path Squat",
+      "Quad Focused Squat",
+      "Leg Day Machine",
+      "Stabilized Squat",
+      "Lower Body Hypertrophy",
+      "Smith Machine Legs",
+      "Beginner Squat Alternative",
+      "Heavy Squatting"
+    ]
+  },
+  {
+    "exercise_id": 176,
+    "exercise_name": "Dumbbell Cossack Squat",
+    "exercise_description": "A lateral squat variation performed by shifting weight to one leg while the other remains straight. Holding a dumbbell (goblet style) adds resistance. This movement builds single-leg strength, hip mobility, and adductor flexibility simultaneously.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS", "GLUTES", "ADDUCTORS", "HAMSTRINGS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Dumbbell Cossack Squat",
+      "Lateral Squat",
+      "Side Squat",
+      "Hip Mobility",
+      "Single Leg Strength",
+      "Adductor Stretch",
+      "Lower Body Flexibility",
+      "Unilateral Leg Training",
+      "Functional Leg Exercise",
+      "Goblet Cossack Squat"
+    ]
+  },
+  {
+    "exercise_id": 177,
+    "exercise_name": "Seated Barbell Shoulder Press",
+    "exercise_description": "A strict overhead press performed while seated on a bench with back support. By removing the lower body and core stabilization required in a standing press, the lifter can focus more load and intensity directly onto the anterior and medial deltoids.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "TRICEPS"],
+    "exercise_equipments": ["BARBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Seated Barbell Shoulder Press",
+      "Seated Military Press",
+      "Overhead Barbell Press",
+      "Deltoid Strength",
+      "Shoulder Mass Builder",
+      "Strict Overhead Press",
+      "Seated Press",
+      "Upper Body Compound",
+      "Barbell Shoulder Workout",
+      "Tricep Press"
+    ]
+  },
+  {
+    "exercise_id": 178,
+    "exercise_name": "Dumbbell Goblet Squat",
+    "exercise_description": "A fundamental squat where a single dumbbell is held against the chest like a goblet. The front-loaded weight naturally encourages a more upright torso and proper squat depth, making it excellent for quad development and core engagement.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS", "GLUTES", "CORE"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Dumbbell Goblet Squat",
+      "Front Squat Variation",
+      "Quad Development",
+      "Squat Form Exercise",
+      "Beginner Squat",
+      "Core and Leg Workout",
+      "Dumbbell Leg Day",
+      "Deep Squatting",
+      "Goblet Hold",
+      "Lower Body Foundation"
+    ]
   }
 
 ]
