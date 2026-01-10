@@ -4685,6 +4685,827 @@
     "exercise_type_id": 2,
     "exerciseType": "STRENGTH",
     "keywords": ["Seated Rear Delt Fly", "Bent Over Lateral Raise", "Posterior Delt Isolation"]
+  },
+  {
+    "exercise_id": 247,
+    "exercise_name": "Arnold Press",
+    "exercise_description": "A shoulder press variation popularized by Arnold Schwarzenegger. It involves a rotational movement: starting with palms facing the chest and rotating them to face forward as you press overhead. This targets all three heads of the deltoids.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "TRICEPS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Arnold Press",
+      "Rotational Shoulder Press",
+      "Dumbbell Arnold Press",
+      "Shoulder Mass",
+      "Deltoid Training",
+      "Arnold Schwarzenegger Exercise"
+    ]
+  },
+  {
+    "exercise_id": 248,
+    "exercise_name": "Seated Dumbbell Lateral Raise",
+    "exercise_description": "Performed while sitting on a bench to eliminate lower body momentum. By raising dumbbells to the sides, you strictly isolate the lateral deltoid, which is key for developing shoulder width.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS"],
+    "exercise_equipments": ["DUMBBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Seated Lateral Raise",
+      "Strict Side Raise",
+      "Dumbbell Lateral Raise Seated",
+      "Shoulder Width",
+      "Middle Delt Isolation"
+    ]
+  },
+  {
+    "exercise_id": 249,
+    "exercise_name": "Lever Gripless Shrug",
+    "exercise_description": "Performed on a leverage machine where the weight rests on the forearms or handles are designed to minimize grip involvement. This allows the user to focus entirely on the trap contraction without the limiting factor of forearm strength.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRAPS"],
+    "exercise_equipments": ["LEVER MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Lever Gripless Shrug",
+      "No Grip Shrug",
+      "Machine Trap Shrug",
+      "Upper Trap Isolation",
+      "Hammer Strength Shrug"
+    ]
+  },
+  {
+    "exercise_id": 250,
+    "exercise_name": "Cable Rear Delt Fly",
+    "exercise_description": "Using a cable crossover machine, the arms are pulled horizontally across the body while standing or seated. The cables provide constant tension on the posterior deltoid throughout the entire range of motion.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Cable Rear Delt Fly",
+      "Rear Delt Cable Cross",
+      "Posterior Deltoid Cable",
+      "Reverse Cable Fly",
+      "Shoulder Health"
+    ]
+  },
+  {
+    "exercise_id": 251,
+    "exercise_name": "Bent Over Lateral Raise",
+    "exercise_description": "Hinging at the waist so the torso is parallel to the floor, dumbbells are raised to the sides. This position shifts the focus from the middle deltoid to the posterior deltoid and the muscles of the upper back.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "BACK"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Bent Over Lateral Raise",
+      "Rear Delt Fly",
+      "Bent Over Side Raise",
+      "Posterior Deltoid",
+      "Dumbbell Rear Delt"
+    ]
+  },
+  {
+    "exercise_id": 252,
+    "exercise_name": "Bent Arm Lateral Raise",
+    "exercise_description": "A variation of the lateral raise where the elbows are bent at a 90-degree angle. This shortens the lever arm, allowing for heavier weights to be used or providing a safer option for those with shoulder joint sensitivity.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Bent Arm Lateral Raise",
+      "Bent Arm Side Raise",
+      "Short Lever Side Raise",
+      "Middle Delt Strength"
+    ]
+  },
+  {
+    "exercise_id": 253,
+    "exercise_name": "Cable Upright Row",
+    "exercise_description": "Using a straight bar or rope attached to a low pulley, the weight is pulled vertically toward the chin. The cables provide constant tension on the side delts and upper traps.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "TRAPS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Cable Upright Row",
+      "Low Pulley Row",
+      "Shoulder Trap Cable",
+      "Vertical Cable Pull"
+    ]
+  },
+  {
+    "exercise_id": 254,
+    "exercise_name": "Elbow To Knee Twists",
+    "exercise_description": "A bodyweight core exercise where the user brings an elbow to the opposite knee while crunching. This movement targets the obliques and improves rotational core strength.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE", "OBLIQUES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Elbow To Knee Twists",
+      "Bicycle Crunch Variation",
+      "Core Rotation",
+      "Ab Twist",
+      "Oblique Training"
+    ]
+  },
+  {
+    "exercise_id": 255,
+    "exercise_name": "Face Pull",
+    "exercise_description": "Pulling a rope attachment toward the face while flaring the elbows out. This is a premier exercise for posterior deltoid development, traps, and external rotators, aiding in shoulder health and posture.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "BACK"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Face Pull",
+      "Rope Face Pull",
+      "Rear Delt Face Pull",
+      "Shoulder Prehab",
+      "Posture Exercise"
+    ]
+  },
+  {
+    "exercise_id": 256,
+    "exercise_name": "Half Kneeling High Cable Row Rope",
+    "exercise_description": "Performed in a kneeling position, pulling a rope from a high pulley toward the chest or face. This targets the upper back and rear delts while demanding significant core stability due to the kneeling stance.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "SHOULDERS", "CORE"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Half Kneeling High Row",
+      "Kneeling Cable Row",
+      "Rope Row",
+      "Upper Back Strength",
+      "Core Stability"
+    ]
+  },
+  {
+    "exercise_id": 257,
+    "exercise_name": "Leaning Cable Lateral Raise",
+    "exercise_description": "By leaning away from the cable machine while holding the handle, you increase the range of motion and the tension at the bottom of the movement, where the lateral deltoid is most stretched.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Leaning Cable Lateral Raise",
+      "Incline Cable Side Raise",
+      "Cable Lateral Raise",
+      "Lateral Delt Stretch"
+    ]
+  },
+  {
+    "exercise_id": 258,
+    "exercise_name": "Dumbbell Raise",
+    "exercise_description": "A general term for front, lateral, or rear raises using dumbbells to isolate different heads of the shoulder depending on the plane of motion.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Dumbbell Raise",
+      "Shoulder Raise",
+      "Deltoid Isolation",
+      "Dumbbell Shoulder Workout"
+    ]
+  },
+  {
+    "exercise_id": 259,
+    "exercise_name": "Dumbbell Upright Row",
+    "exercise_description": "Dumbbells are pulled vertically toward the chest while elbows lead the way. Unlike the barbell version, dumbbells allow for a more natural path of motion, reducing potential shoulder impingement.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "TRAPS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": [
+      "Dumbbell Upright Row",
+      "DB Upright Row",
+      "Shoulder Pull",
+      "Trap and Shoulder Workout"
+    ]
+  },{
+    "exercise_id": 260,
+    "exercise_name": "Lying Weighted Neck Flexion",
+    "exercise_description": "Lying on your back on a bench with your head hanging off the edge. A weight plate is held against the forehead (usually cushioned by a towel) as the chin is tucked toward the chest. This isolates the anterior neck muscles.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["NECK"],
+    "exercise_equipments": ["WEIGHT PLATE", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Lying Neck Flexion", "Anterior Neck", "Weighted Neck Raise", "Neck Strength"]
+  },
+  {
+    "exercise_id": 261,
+    "exercise_name": "Lying Weighted Neck Extension",
+    "exercise_description": "Lying face down on a bench with the head hanging off. A weight plate is held against the back of the head while extending the neck upward. This targets the posterior neck muscles and upper traps.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["NECK"],
+    "exercise_equipments": ["WEIGHT PLATE", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Lying Neck Extension", "Posterior Neck", "Neck Mass", "Traps"]
+  },
+  {
+    "exercise_id": 262,
+    "exercise_name": "Lever Neck Right Side Flexion (plate loaded)",
+    "exercise_description": "Performed on a specialized 4-way neck machine. The user sits and presses the right side of their head against the padded lever, flexing the neck to the right to build lateral neck thickness and stability.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["NECK"],
+    "exercise_equipments": ["LEVER MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Neck Side Flexion", "4-Way Neck Machine", "Lateral Neck", "Neck Lever"]
+  },
+  {
+    "exercise_id": 263,
+    "exercise_name": "Lever Neck Extension (plate loaded)",
+    "exercise_description": "Using a neck machine, the user pushes the back of their head against the lever to move the weight. This provides a safe, guided way to load the posterior neck muscles.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["NECK"],
+    "exercise_equipments": ["LEVER MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Machine Neck Extension", "Lever Neck Machine", "Guided Neck Strength"]
+  },
+  {
+    "exercise_id": 264,
+    "exercise_name": "Cable Seated Neck Flexion with head harness",
+    "exercise_description": "The user sits facing away from a low cable pulley with a head harness attached. By flexing the head forward, the cable provides constant tension on the front of the neck.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["NECK"],
+    "exercise_equipments": ["CABLE MACHINE", "NECK HARNESS"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Cable Neck Flexion", "Harness Neck Workout", "Constant Tension Neck"]
+  },
+  {
+    "exercise_id": 265,
+    "exercise_name": "Cable Seated Neck Extension with head harness",
+    "exercise_description": "Facing the cable machine with a harness attached, the user extends their head backward. This is a highly effective way to build the 'bull neck' look with consistent resistance.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["NECK"],
+    "exercise_equipments": ["CABLE MACHINE", "NECK HARNESS"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Cable Neck Extension", "Neck Harness", "Posterior Cable Neck"]
+  },
+  {
+    "exercise_id": 266,
+    "exercise_name": "Alternate Leg Raises",
+    "exercise_description": "Lying on the floor, legs are lifted and lowered one at a time. This targets the lower abdominals and hip flexors while requiring the lower back to stay pressed against the ground.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Alternate Leg Raises", "Single Leg Raises", "Lower Abs", "Core Stability"]
+  },
+  {
+    "exercise_id": 267,
+    "exercise_name": "Lever Front Pulldown",
+    "exercise_description": "A machine-based pulldown (often Hammer Strength) where the handles move in a converging arc toward the front of the chest. It targets the lats with a focus on depth and lower lat activation.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS"],
+    "exercise_equipments": ["LEVER MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Lever Pulldown", "Front Machine Pulldown", "Hammer Strength Lat", "Back Machine"]
+  },
+  {
+    "exercise_id": 268,
+    "exercise_name": "Pull-Up",
+    "exercise_description": "An overhand grip vertical pull where the user pulls their chest to the bar. This is a fundamental exercise for back width and upper body pulling power.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "BICEPS"],
+    "exercise_equipments": ["PULL-UP BAR"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Pull-Up", "Overhand Pullup", "Back Width", "Bodyweight Back"]
+  },
+  {
+    "exercise_id": 269,
+    "exercise_name": "Cable Rear Pulldown",
+    "exercise_description": "Pulling the cable bar down behind the neck. This variation emphasizes the upper traps, rhomboids, and rear delts, though it requires good shoulder mobility to perform safely.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "SHOULDERS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Behind Neck Pulldown", "Rear Pulldown", "Upper Back Cable"]
+  },
+  {
+    "exercise_id": 270,
+    "exercise_name": "Lat Pulldown",
+    "exercise_description": "The standard machine exercise for back development. Pulling the bar to the upper chest targets the latissimus dorsi to create a 'V-taper' look.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Lat Pulldown", "Cable Lat Pull", "Wide Grip Pulldown", "Back Width"]
+  },
+  {
+    "exercise_id": 271,
+    "exercise_name": "Seated Cable Row",
+    "exercise_description": "A horizontal pulling movement using a cable machine. It targets the mid-back, including the rhomboids and traps, while also engaging the lats.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "BICEPS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Seated Cable Row", "Cable Row", "Mid Back Pull", "Seated Row"]
+  },
+  {
+    "exercise_id": 272,
+    "exercise_name": "Barbell Bent Over Row",
+    "exercise_description": "A heavy compound movement where the user hinges forward and pulls a barbell to their midsection. It is one of the best builders of overall back thickness.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "CORE"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Barbell Row", "Bent Over Row", "Back Thickness", "Compound Back"]
+  },
+  {
+    "exercise_id": 273,
+    "exercise_name": "Cable Straight Arm Pulldown",
+    "exercise_description": "An isolation exercise for the lats. Keeping the arms straight, the user pulls the cable bar from above the head down to the thighs, focusing on the lats without bicep involvement.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Straight Arm Pulldown", "Lat Isolation", "Cable Lat Pushdown"]
+  },
+  {
+    "exercise_id": 274,
+    "exercise_name": "Legless Rope Climb",
+    "exercise_description": "An advanced pulling exercise where the user climbs a vertical rope using only their arms. This demands extreme grip strength and upper body pulling endurance.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "BICEPS", "FOREARMS"],
+    "exercise_equipments": ["ROPE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Legless Rope Climb", "Rope Climb", "Grip Strength", "Functional Pulling"]
+  },
+  {
+    "exercise_id": 275,
+    "exercise_name": "Lever T-Bar Row",
+    "exercise_description": "A plate-loaded row where the bar is pivoted on a landmine or machine. The neutral grip often allows for heavier weights and targets the mid-back and lats.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS"],
+    "exercise_equipments": ["LEVER MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["T-Bar Row", "Lever Row", "Machine T-Bar", "Back Thickness"]
+  },
+  {
+    "exercise_id": 276,
+    "exercise_name": "Dumbbell Row",
+    "exercise_description": "A unilateral row usually performed with one hand and knee on a bench. This allows for a deep range of motion and helps fix imbalances between the left and right sides of the back.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS"],
+    "exercise_equipments": ["DUMBBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Dumbbell Row", "One Arm Row", "Single Arm Row", "Back Isolation"]
+  },
+  {
+    "exercise_id": 277,
+    "exercise_name": "Bent Over Dumbbell Row",
+    "exercise_description": "Hinging forward with a dumbbell in each hand, pulling them simultaneously toward the hips. This requires significant core and lower back stability.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "CORE"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Double Dumbbell Row", "Bent Over DB Row", "Back Thickness"]
+  },
+  {
+    "exercise_id": 278,
+    "exercise_name": "Dumbbell Bent Over Reverse Grip Row",
+    "exercise_description": "Using an underhand (supinated) grip while rowing dumbbells. This increases bicep involvement and shifts more focus to the lower latissimus dorsi.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "BICEPS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Reverse Grip Row", "Underhand DB Row", "Lower Lat Row"]
+  },
+  {
+    "exercise_id": 279,
+    "exercise_name": "Reverse Lat-Pulldown",
+    "exercise_description": "A pulldown using an underhand grip. This increases the range of motion and provides a greater stretch to the lats while heavily involving the biceps.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "BICEPS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Underhand Lat Pulldown", "Reverse Grip Pulldown", "Bicep and Lat Pull"]
+  },
+  {
+    "exercise_id": 280,
+    "exercise_name": "Muscle-Up",
+    "exercise_description": "A high-skill move starting with an explosive pull-up that transitions into a dip above the bar. It targets the entire upper body pushing and pulling musculature.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "CHEST", "TRICEPS", "SHOULDERS"],
+    "exercise_equipments": ["PULL-UP BAR"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Muscle Up", "Bar Muscle Up", "Explosive Pullup", "Calisthenics"]
+  },
+  {
+    "exercise_id": 281,
+    "exercise_name": "Barbell Squat",
+    "exercise_description": "The 'King of Exercises'. The barbell is held on the upper traps while the user squats down and back up. It is the premier movement for full-body strength and leg development.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS", "GLUTES", "HAMSTRINGS", "CORE"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Back Squat", "Barbell Squat", "Leg Day", "Compound Leg Move"]
+  },
+  {
+    "exercise_id": 282,
+    "exercise_name": "Seated Row Machine",
+    "exercise_description": "A selectorized machine exercise where the user pulls handles toward the waist. The chest pad provides stability, allowing for a focused contraction of the rhomboids and middle traps without taxing the lower back.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "RHOMBOIDS"],
+    "exercise_equipments": ["MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Seated Row Machine", "Chest Supported Row", "Machine Row", "Mid Back Workout"]
+  },
+  {
+    "exercise_id": 283,
+    "exercise_name": "One Arm Cable Row",
+    "exercise_description": "A unilateral rowing movement performed at a cable station. Working one side at a time allows for a greater range of motion and rotation, better isolating the lat and engaging the obliques for stability.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "CORE"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["One Arm Cable Row", "Single Arm Row", "Unilateral Back", "Cable Lat Row"]
+  },
+  {
+    "exercise_id": 284,
+    "exercise_name": "Reverse Grip Barbell Row",
+    "exercise_description": "A barbell row variation using a supinated (underhand) grip. This placement emphasizes the lower lats and increases bicep recruitment while allowing for a slightly more upright torso.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["BACK", "LATS", "BICEPS"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Reverse Grip Barbell Row", "Yates Row", "Underhand Barbell Row", "Lower Lat Thickener"]
+  },
+  {
+    "exercise_id": 285,
+    "exercise_name": "Crunches",
+    "exercise_description": "A fundamental core exercise where the user curls the upper spine off the floor. It isolates the rectus abdominis by focusing on the contraction of the upper abdominal wall.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Crunches", "Abdominal Crunch", "Abs", "Upper Core"]
+  },
+  {
+    "exercise_id": 286,
+    "exercise_name": "Leg Press",
+    "exercise_description": "A machine-based compound movement where the user pushes a weighted platform away with their legs. It allows for heavy loading of the quads and glutes with minimal spinal compression.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS", "GLUTES", "HAMSTRINGS"],
+    "exercise_equipments": ["MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Leg Press", "Horizontal Leg Press", "45 Degree Leg Press", "Quad Machine"]
+  },
+  {
+    "exercise_id": 287,
+    "exercise_name": "Mountain Climber",
+    "exercise_description": "Starting in a plank position, the user alternates bringing knees toward the chest in a running motion. This is a dynamic exercise that builds core stability and cardiovascular endurance.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE", "HEART"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 1,
+    "exerciseType": "CARDIO",
+    "keywords": ["Mountain Climbers", "Running Plank", "Core Cardio", "Dynamic Core"]
+  },
+  {
+    "exercise_id": 288,
+    "exercise_name": "Bicycle Crunch",
+    "exercise_description": "A rotational ab exercise where opposite elbow meets opposite knee in a cycling motion. It targets the rectus abdominis and the obliques simultaneously.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE", "OBLIQUES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Bicycle Crunch", "Ab Cycles", "Rotational Abs", "Oblique Workout"]
+  },
+  {
+    "exercise_id": 289,
+    "exercise_name": "Lying Scissor Kick",
+    "exercise_description": "Lying on the back, legs are kept straight and alternated up and down in a small, quick 'shearing' motion. This places constant tension on the lower abdominals.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Scissor Kicks", "Flutter Kicks", "Lower Ab Core", "Lying Leg Flutter"]
+  },
+  {
+    "exercise_id": 290,
+    "exercise_name": "Plie Dumbbell Squat",
+    "exercise_description": "A wide-stance squat with toes pointed outward, holding a dumbbell between the legs. This variation heavily emphasizes the adductors (inner thighs) and glutes.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["ADDUCTORS", "GLUTES", "QUADS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Plie Squat", "Sumo Dumbbell Squat", "Inner Thigh Squat", "Glute Squat"]
+  },
+  {
+    "exercise_id": 291,
+    "exercise_name": "Deadlift",
+    "exercise_description": "A premier compound lift where a barbell is lifted from the floor to a standing position. It develops the entire posterior chain, including the hamstrings, glutes, and spinal erectors.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["GLUTES", "HAMSTRINGS", "LOWER BACK"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Deadlift", "Conventional Deadlift", "Posterior Chain", "Heavy Pull"]
+  },
+  {
+    "exercise_id": 292,
+    "exercise_name": "Dumbbell Kickback",
+    "exercise_description": "Bent over with an elbow tucked to the side, the arm is extended backward to isolate the triceps. This is a high-repetition shaping movement.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["DUMBBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Dumbbell Kickback", "Tricep Extension", "Arm Toning", "Isolation Tricep"]
+  },
+  {
+    "exercise_id": 293,
+    "exercise_name": "Leg Raise",
+    "exercise_description": "Lying or hanging, the legs are lifted toward the torso without bending the knees. This targets the lower abdominal region and hip flexors.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Leg Raise", "Lying Leg Raise", "Lower Abs", "Core Lift"]
+  },
+  {
+    "exercise_id": 294,
+    "exercise_name": "Oblique Floor Crunches",
+    "exercise_description": "Lying on the side or with knees tilted, the user crunches upward to target the obliques, improving lateral core strength and definition.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["OBLIQUES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Oblique Crunch", "Side Crunch", "Lateral Abs", "Floor Obliques"]
+  },
+  {
+    "exercise_id": 295,
+    "exercise_name": "T-Cross Sit-up",
+    "exercise_description": "A sit-up variation where arms are held out in a T-shape. As the user sits up, they rotate to touch their hand to the opposite foot, adding a rotational component to the standard sit-up.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE", "OBLIQUES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["T-Cross Sit-up", "Cross Situp", "Rotational Core", "Advanced Situp"]
+  },
+  {
+    "exercise_id": 296,
+    "exercise_name": "Leg Curl",
+    "exercise_description": "An isolation exercise for the hamstrings where the user curls a weighted lever toward their glutes. Typically performed lying or standing.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["HAMSTRINGS"],
+    "exercise_equipments": ["MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Leg Curl", "Hamstring Curl", "Lying Leg Curl", "Back of Leg Isolation"]
+  },
+  {
+    "exercise_id": 297,
+    "exercise_name": "One-Arm Reverse Pushdown",
+    "exercise_description": "Using a cable machine with an underhand (supinated) grip, the user pushes the handle down to isolate the triceps, focusing on the medial head.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["One-Arm Reverse Pushdown", "Underhand Tricep Pushdown", "Single Arm Tricep", "Cable Reverse Press"]
+  },
+  {
+    "exercise_id": 298,
+    "exercise_name": "Push-down",
+    "exercise_description": "A cable exercise where the user pushes a bar or rope downward. This is a staple movement for building triceps mass and definition.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Push-down", "Tricep Pushdown", "Cable Pushdown", "Tricep Press"]
+  },
+  {
+    "exercise_id": 299,
+    "exercise_name": "Seated Leg Curl",
+    "exercise_description": "Performed on a machine in a seated position. This variation places the hamstrings in a more stretched position than lying curls, emphasizing muscle hypertrophy.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["HAMSTRINGS"],
+    "exercise_equipments": ["MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Seated Leg Curl", "Hamstring Curl Machine", "Seated Leg Machine"]
+  },
+  {
+    "exercise_id": 300,
+    "exercise_name": "Dead Bug",
+    "exercise_description": "Lying on the back, the user alternates lowering opposite arm and leg while keeping the lower back flat. It is an essential 'anti-extension' core stability exercise.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Dead Bug", "Core Stability", "Abdominal Health", "Anti-Extension"]
+  },
+  {
+    "exercise_id": 301,
+    "exercise_name": "Decline Sit-up",
+    "exercise_description": "A sit-up performed on a decline bench. The increased angle makes the movement significantly harder, placing more load on the rectus abdominis.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["DECLINE BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Decline Sit-up", "Incline Bench Situp", "Advanced Situp", "Abdominal Bench"]
+  },
+  {
+    "exercise_id": 302,
+    "exercise_name": "Leg Extension",
+    "exercise_description": "An isolation exercise for the quadriceps where the user extends their legs against a weighted lever from a seated position.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["QUADS"],
+    "exercise_equipments": ["MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Leg Extension", "Quad Extension", "Machine Quads", "Knee Extension"]
+  },
+  {
+    "exercise_id": 303,
+    "exercise_name": "Reverse Crunch",
+    "exercise_description": "The user pulls their knees toward their chest while curling the hips off the floor, specifically targeting the lower fibers of the abdominals.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Reverse Crunch", "Lower Ab Crunch", "Hip Lift Crunch"]
+  },
+  {
+    "exercise_id": 304,
+    "exercise_name": "Bench Dips",
+    "exercise_description": "Using two benches or a single bench, the user lowers their body by bending the elbows and then pushes back up, focusing on the triceps.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS", "CHEST"],
+    "exercise_equipments": ["BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Bench Dips", "Chair Dips", "Tricep Dips", "Bodyweight Triceps"]
+  },
+  {
+    "exercise_id": 305,
+    "exercise_name": "Triceps Dips",
+    "exercise_description": "Performed on parallel bars, keeping the torso upright to shift the load onto the triceps. This is a heavy compound movement for arm thickness.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["PARALLEL BARS"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Tricep Dips", "Parallel Bar Dips", "Dips for Arms", "Compound Tricep"]
+  },
+  {
+    "exercise_id": 306,
+    "exercise_name": "Barbell Seated Calf Raise",
+    "exercise_description": "Seated with a barbell across the knees, the user lifts their heels. This isolates the soleus muscle, which is better targeted when the knees are bent.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CALVES"],
+    "exercise_equipments": ["BARBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Seated Calf Raise", "Barbell Calf Raise", "Soleus Training", "Lower Leg Workout"]
+  },
+  {
+    "exercise_id": 307,
+    "exercise_name": "Kneeling Cable Crunch",
+    "exercise_description": "Kneeling under a cable pulley, the user holds a rope and crunches downward, focusing on flexing the spine and contracting the abs against cable tension.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Kneeling Cable Crunch", "Cable Rope Crunch", "Weighted Abs", "Crunching Abs"]
+  },
+  {
+    "exercise_id": 308,
+    "exercise_name": "Heel Touch",
+    "exercise_description": "Lying on the back with knees bent, the user reaches side-to-side to touch their heels. This isolates the obliques through lateral flexion.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["OBLIQUES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Heel Touch", "Alternate Heel Touch", "Side Reach", "Oblique Floor Exercise"]
+  },
+  {
+    "exercise_id": 309,
+    "exercise_name": "One-Arm Lying Triceps Extension",
+    "exercise_description": "Lying on a bench, a single dumbbell is lowered toward the opposite shoulder and extended upward, isolating the triceps and fixing imbalances.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["DUMBBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["One-Arm Lying Triceps Extension", "Single Arm Skull Crusher", "Unilateral Tricep Extension"]
+  },
+  {
+    "exercise_id": 310,
+    "exercise_name": "Cable Rope Overhead Triceps Extension",
+    "exercise_description": "Pulling a cable rope from a low or high pulley overhead and extending upward. This places the triceps in a high-stretch position for maximum growth.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["CABLE MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Overhead Tricep Extension", "Cable Rope Extension", "Tricep Stretch", "Cable Overhead Press"]
+  },
+  {
+    "exercise_id": 311,
+    "exercise_name": "Lever Triceps Dip",
+    "exercise_description": "A machine-based dip where the user pushes downward on levers. It offers the benefits of a parallel bar dip with the added stability and safety of a machine.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["LEVER MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Lever Tricep Dip", "Machine Dip", "Hammer Strength Dip", "Tricep Press Machine"]
+  },
+  {
+    "exercise_id": 312,
+    "exercise_name": "Romanian Deadlift",
+    "exercise_description": "A deadlift variation focused on the hip hinge. The bar is lowered to mid-shin with a slight knee bend, creating a massive stretch in the hamstrings and glutes.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["HAMSTRINGS", "GLUTES", "LOWER BACK"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Romanian Deadlift", "RDL", "Hamstring Deadlift", "Hip Hinge Move"]
+  },
+  {
+    "exercise_id": 313,
+    "exercise_name": "Lying Barbell Triceps Extension",
+    "exercise_description": "Commonly known as 'Skull Crushers'. A barbell is lowered toward the forehead and extended upward to fully isolate the triceps.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS"],
+    "exercise_equipments": ["BARBELL", "BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Skull Crusher", "Lying Barbell Extension", "Tricep Barbell Extension", "Skullcrushers"]
+  },
+  {
+    "exercise_id": 314,
+    "exercise_name": "Push Press",
+    "exercise_description": "A compound overhead press that uses a small leg drive to help propel the barbell overhead. This allows for heavier weight and develops explosive power.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS", "TRICEPS", "QUADS"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Push Press", "Barbell Push Press", "Explosive Overhead Press", "Shoulder Power"]
   }
 
 ]
