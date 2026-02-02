@@ -9103,6 +9103,127 @@
     "exercise_type_id": 2,
     "exerciseType": "STRENGTH",
     "keywords": ["Hammer Strength Shoulder Press", "Machine Overhead Press"]
+  },
+  {
+    "exercise_id": 585,
+    "exercise_name": "Standing Barbell Rollout",
+    "exercise_description": "An elite-level core exercise where the user starts from a standing position and rolls a barbell out until the body is parallel to the floor, then pulls back. It requires immense core strength and shoulder stability.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE", "SHOULDERS", "LATS"],
+    "exercise_equipments": ["BARBELL"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Standing Ab Rollout", "Advanced Core", "Barbell Ab Roll"]
+  },
+  {
+    "exercise_id": 586,
+    "exercise_name": "Side Plank Oblique Crunch",
+    "exercise_description": "From a side plank position, the user brings the top elbow and top knee together in a crunching motion. This combines isometric lateral stability with active oblique contraction.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["OBLIQUES", "CORE"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Side Plank Crunch", "Oblique Burner", "Lateral Core"]
+  },
+  {
+    "exercise_id": 587,
+    "exercise_name": "Assisted Triceps Dips",
+    "exercise_description": "Using a machine with a counterweight platform to perform dips. This allows users to build the necessary strength for full bodyweight dips by reducing the effective load.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["TRICEPS", "CHEST", "SHOULDERS"],
+    "exercise_equipments": ["MACHINE"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Assisted Dip", "Machine Dip", "Tricep Progression"]
+  },
+  {
+    "exercise_id": 588,
+    "exercise_name": "Medicine Ball Sit-up Throw",
+    "exercise_description": "The user performs an explosive sit-up and throws a medicine ball against a wall or to a partner at the top of the movement. Develops explosive core power and upper body coordination.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CORE", "SHOULDERS", "CHEST"],
+    "exercise_equipments": ["MEDICINE BALL"],
+    "exercise_type_id": 3,
+    "exerciseType": "PLYOMETRIC",
+    "keywords": ["Ab Throw", "Med Ball Situp", "Explosive Abs"]
+  },
+  {
+    "exercise_id": 589,
+    "exercise_name": "Standing Ankle Dorsiflexion",
+    "exercise_description": "Standing on the heels and lifting the toes toward the shins. This strengthens the tibialis anterior, which is crucial for shin splint prevention and ankle stability.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CALVES", "TIBIALIS ANTERIOR"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Toe Raises", "Tibialis Raise", "Ankle Strength"]
+  },
+  {
+    "exercise_id": 590,
+    "exercise_name": "Standing Wall Calf Stretch",
+    "exercise_description": "Leaning against a wall with one leg back and heel pressed down to stretch the gastrocnemius. Essential for maintaining ankle range of motion and relieving lower leg tightness.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CALVES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 4,
+    "exerciseType": "STRETCHING",
+    "keywords": ["Calf Stretch", "Gastrocnemius Stretch", "Wall Stretch"]
+  },
+  {
+    "exercise_id": 591,
+    "exercise_name": "Standing Toe Up Achilles Stretch",
+    "exercise_description": "Placing the toes up against a wall or step while keeping the heel down and leaning forward. This specifically targets the Achilles tendon and the deeper soleus muscle.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["CALVES", "FEET"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 4,
+    "exerciseType": "STRETCHING",
+    "keywords": ["Achilles Stretch", "Soleus Stretch", "Toe Propped Stretch"]
+  },
+  {
+    "exercise_id": 592,
+    "exercise_name": "Posterior Tibialis Stretch",
+    "exercise_description": "A targeted stretch often involving foot inversion to release the posterior tibialis muscle, which supports the arch of the foot.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["FEET", "CALVES"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 4,
+    "exerciseType": "STRETCHING",
+    "keywords": ["Inner Calf Stretch", "Foot Arch Mobility"]
+  },
+  {
+    "exercise_id": 593,
+    "exercise_name": "Foot and Ankles Stretches",
+    "exercise_description": "A series of movements including ankle circles, toe points, and flexes designed to improve overall foot health and joint lubrication.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["FEET"],
+    "exercise_equipments": ["BODYWEIGHT"],
+    "exercise_type_id": 4,
+    "exerciseType": "STRETCHING",
+    "keywords": ["Ankle Mobility", "Foot Flexibility", "Joint Prep"]
+  },
+  {
+    "exercise_id": 594,
+    "exercise_name": "Chest Supported Dumbbell Front Raises",
+    "exercise_description": "Lying face-down on an incline bench while raising dumbbells in front. This removes all momentum and forces the anterior deltoids to perform all the work.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["SHOULDERS"],
+    "exercise_equipments": ["DUMBBELL", "INCLINE BENCH"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Prone Front Raise", "Strict Shoulder Raise", "Front Delt Isolation"]
+  },
+  {
+    "exercise_id": 595,
+    "exercise_name": "Side Bent",
+    "exercise_description": "A lateral flexion exercise (weighted or unweighted) where the user leans to one side to target the obliques and quadratus lumborum.",
+    "exercise_image_url": "",
+    "exercise_body_parts": ["OBLIQUES", "LOWER BACK"],
+    "exercise_equipments": ["DUMBBELL", "BODYWEIGHT"],
+    "exercise_type_id": 2,
+    "exerciseType": "STRENGTH",
+    "keywords": ["Oblique Side Bend", "Lateral Flexion", "Core Side Lean"]
   }
 
 ]
